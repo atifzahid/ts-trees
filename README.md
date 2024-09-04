@@ -1,7 +1,3 @@
-Here’s the README content in a simpler format so you can easily copy and paste it:
-
----
-
 # TypeScript Advanced Tree Structure
 
 This repository contains a TypeScript implementation of a type-safe tree data structure, demonstrating recursive types, tree traversal (DFS and BFS), and type guards.
@@ -68,7 +64,3 @@ All Values in Tree: [ 1, 2, 4, 5, 3, 6, 7 ]
 - **Breadth-First Search (BFS)** and **Depth-First Search (DFS)** traversal algorithms.
 - **Type guards** using custom functions to ensure type safety.
 - **Utility types** to extract all values from a tree node recursively.
-
----
-
-You should now be able to copy this and use it for your GitHub project.
